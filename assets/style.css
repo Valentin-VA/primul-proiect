@@ -1,0 +1,35 @@
+.navbar-brand {
+  box-shadow: 10px 10px greenyellow;
+  background-color: gold;
+}
+.recommends h3 {
+  display: flex;
+  justify-content: center;
+  font-family: cursive;
+  text-shadow: 2px 2px 5px rgb(16, 75, 204);
+  padding-top: 20px;
+  color: #f00;
+}
+.recommends span {
+  font-size: 35px;
+  color: #f00;
+}
+.best-features {
+  margin-top: 30px;
+}
+.best-features i {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(225, 233, 217);
+}
+.container-fluid {
+  background-color: rgb(225, 233, 217);
+}
+.col-md-12 p {
+  color: cornflowerblue;
+  font: size 35px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.col-md-12 span {
+  font-weight: 800;
+}
